@@ -1,0 +1,28 @@
+.headline {
+	font-weight: bold;
+	font-size: 32px;
+	font-family: "Comic Sans MS";
+	color: #ff4d4d;
+}
+
+table{
+	align: center;
+	margin-top: 30px;
+	width: 90%;
+	border-collapse: separate;
+	text-align: center;
+}
+
+table, th, td {
+  	border: 1px solid black;
+  	padding: 1px;
+  	background-color: #b3ffb3;
+}
+
+td {
+  	padding: 3px 5px;
+}
+
+input{
+	text-align: center;
+}
